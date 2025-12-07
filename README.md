@@ -8,7 +8,6 @@ A production-ready machine learning system that can identify dog breeds from ima
 
 Upload a photo of any dog and get an instant breed prediction with confidence score. Our system compares predictions from two different datasets to provide robust and reliable results.
 
-**Demo**: [Try it live](https://your-deployed-app-url.com) *(deployment link)*
 
 ## ✨ Features
 
