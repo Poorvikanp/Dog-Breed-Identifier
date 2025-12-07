@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: dog-breed-classifier
+    env: docker
+    plan: free
+    autoDeploy: true
+    healthCheckPath: /health
+    # Optional: set environment variables here if needed
+    envVars: []

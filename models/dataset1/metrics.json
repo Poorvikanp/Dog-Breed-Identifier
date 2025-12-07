@@ -1,0 +1,7 @@
+{
+  "val_loss": 0.727818489074707,
+  "val_accuracy": 0.7807788848876953,
+  "epochs_stage1": 3,
+  "epochs_stage2": 5,
+  "num_classes": 120
+}
